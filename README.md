@@ -1,1 +1,1 @@
-# Vinithrepo2
+echo "print('Hello from Codespaces')" > hello.py
